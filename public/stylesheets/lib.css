@@ -6,6 +6,7 @@ body, input {
   font-family: 'Roboto Condensed', sans-serif;
   margin: 0;
   color: #244751;
+
 }
 
 a {
@@ -60,8 +61,11 @@ main {
   display: inline-block;
 }
 
+
+
 .finstagram-post > * {
   margin-bottom: 1em;
+ 
 }
 
 .user-info {
